@@ -92,3 +92,6 @@ factorized_synthesizer_dense, n_params: 1061900, flops: 1060865
 torch.Size([2, 32, 1024]) torch.Size([2, 32, 32])
 mixture_synthesizer, n_params: 3149824, flops: 3145729
 ```
+
+## Paper Performance
+![eval](https://user-images.githubusercontent.com/22078438/83104044-e738a380-a0f2-11ea-8781-51072f38b3f6.PNG)
